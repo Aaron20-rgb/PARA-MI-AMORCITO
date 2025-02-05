@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: pink;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.presentacion1{
+    display: flex;
+    justify-content: center;
+    margin: 10% 15%;
+}
+
+.presentacion3{
+    color: rgb(80, 128, 201);
+    font-size: 65px;
+    font-family: "Krona One", sans-serif;
+}
+
+.corazon{
+    font-size: 100px;
+    text-align: center;
+}
+.presentacion4{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    align-items: center;
+}
+
+.boton{
+    width: 250px;
+    
+    background-color: rgb(39, 189, 114);
+    text-align: center;
+    text-decoration: none;
+    padding: 21.5px 0;
+    border-radius: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    margin: 0px 90px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.gato{
+    font-size: 200px;
+    margin: 5px 5px;
+}
+.botones{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.body2{
+    background-color: #131212fb;
+}
+
+
+.presentacion30{
+    text-align: center;
+    color: rgb(80, 128, 201);
+    font-size: 65px;
+    font-family: "Krona One", sans-serif;
+}
+
+.presentacion31{
+    text-align: center;
+    color: rgb(80, 128, 201);
+    font-size: 65px;
+    font-family: "Krona One", sans-serif;
+}
