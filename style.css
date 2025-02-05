@@ -81,3 +81,8 @@ body{
     font-size: 65px;
     font-family: "Krona One", sans-serif;
 }
+
+.audio{
+    display: flex;
+    justify-content: center;
+}
